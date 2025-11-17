@@ -1,0 +1,13 @@
+AUTO RULE SUGGESTIONS
+
+- [student_name] has 14.5% missing -> suggest: impute or drop rows.
+- [student_name] looks like a categorical column -> suggest: normalise case/typos.
+- [age] has 12.7% missing -> suggest: impute or drop rows.
+- [age] has negative values -> suggest: disallow negatives or verify data source.
+- [age] has possible high outliers -> suggest: cap or manually review extremes.
+- [grade] looks like a categorical column -> suggest: normalise case/typos.
+- [math_score] has 17.7% missing -> suggest: impute or drop rows.
+- [math_score] has negative values -> suggest: disallow negatives or verify data source.
+- [science_score] has 16.2% missing -> suggest: impute or drop rows.
+- [science_score] has negative values -> suggest: disallow negatives or verify data source.
+- [admission_date] may be a date stored as text -> suggest: parse to datetime and standardise format.

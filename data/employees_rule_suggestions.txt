@@ -1,0 +1,7 @@
+- [name] has 12.7% missing → suggest: impute or drop rows.
+- [name] is probably categorical → suggest: normalise case/typos.
+- [joining_date] looks like a date but is object → suggest: parse to datetime and standardise format.
+- [department] is probably categorical → suggest: normalise case/typos.
+- [salary] has 12.4% missing → suggest: impute or drop rows.
+- [salary] has negative values (min=-20000.0) → suggest: set rule to disallow negatives.
+- [salary] has possible outliers (median=60000.0, max=750000.0) → suggest: cap or review extremes.

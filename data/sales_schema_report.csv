@@ -1,0 +1,7 @@
+column,dtype,missing_pct,n_unique
+order_id,int64,0.0,884
+product,object,12.9,6
+region,object,0.0,8
+quantity,float64,11.200000000000001,7
+price,object,16.900000000000002,6
+order_date,object,0.0,952

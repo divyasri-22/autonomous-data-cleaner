@@ -1,0 +1,8 @@
+column,dtype,missing_pct,n_unique
+student_id,int64,0.0,481
+student_name,object,14.499999999999998,5
+age,float64,12.7,6
+grade,object,0.0,9
+math_score,float64,17.7,5
+science_score,float64,16.2,5
+admission_date,object,0.0,980

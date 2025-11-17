@@ -1,0 +1,6 @@
+column,dtype,missing_pct,n_unique
+employee_id,int64,0.0,327
+name,object,12.7,8
+joining_date,object,0.0,959
+department,object,0.0,9
+salary,float64,12.4,7

@@ -1,0 +1,9 @@
+- [product] has 12.9% missing → suggest: impute or drop rows.
+- [product] is probably categorical → suggest: normalise case/typos.
+- [region] is probably categorical → suggest: normalise case/typos.
+- [quantity] has 11.2% missing → suggest: impute or drop rows.
+- [quantity] has negative values (min=-3.0) → suggest: set rule to disallow negatives.
+- [quantity] has possible outliers (median=3.0, max=1000.0) → suggest: cap or review extremes.
+- [price] has 16.9% missing → suggest: impute or drop rows.
+- [price] is probably categorical → suggest: normalise case/typos.
+- [order_date] looks like a date but is object → suggest: parse to datetime and standardise format.
