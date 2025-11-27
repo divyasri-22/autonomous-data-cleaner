@@ -91,12 +91,3 @@ Streamlit
 Numpy
 
 Custom Rule-Based Engine
-
-streamlit screenshot
-<img width="1842" height="607" alt="image" src="https://github.com/user-attachments/assets/f0fd1a25-6eac-4d99-b061-0aa2135f0903" />
-<img width="1853" height="952" alt="image" src="https://github.com/user-attachments/assets/1ad50c2e-db16-42f1-aba4-5134cb9a7a98" />
-<img width="1791" height="782" alt="image" src="https://github.com/user-attachments/assets/ecfbab5d-89db-4001-b9c8-94517d335fda" />
-<img width="1883" height="952" alt="image" src="https://github.com/user-attachments/assets/472125a2-4c5c-4517-a629-3eb0a98fb700" />
-
-
-
